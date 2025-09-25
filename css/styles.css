@@ -149,8 +149,6 @@ a:focus {
 }
 .team-list {
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 .team-item {
   background-color: #ffffff;
