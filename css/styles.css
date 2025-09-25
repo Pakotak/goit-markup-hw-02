@@ -52,7 +52,6 @@ a:focus {
 
 .contact-list {
   list-style: none;
-  padding: 0;
   margin: 0;
 }
 
@@ -80,9 +79,7 @@ a:focus {
 .hero-button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
-  border: none;
   padding: 16px 32px;
-  border-radius: 4px;
   cursor: pointer;
 }
 
@@ -223,3 +220,4 @@ a:focus {
   color: var(--text-color, #f4f4fd);
   margin-top: 12px;
 }
+
