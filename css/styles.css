@@ -82,6 +82,7 @@ a:focus {
   font-size: 16px;
   letter-spacing: 0.04em;
   color: #ffffff;
+  border: none;
 }
 
 .hero-button:hover,
