@@ -5,15 +5,12 @@ body {
 .team {
   background-color: #f4f4fd;
 }
-.hero {
+.hero, .footer {
   background-color: #2e2f42;
 }
-.footer {
-  background-color: #2e2f42;
-}
+
 body {
   font-family: 'Roboto', sans-serif;
-  color: #434455;
 }
 /* Header */
 .logo {
